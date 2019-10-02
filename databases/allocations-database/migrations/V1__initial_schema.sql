@@ -9,3 +9,5 @@ create table allocations (
 )
 engine = innodb
 default charset = utf8;
+
+
